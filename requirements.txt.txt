@@ -1,9 +1,6 @@
 streamlit
 opencv-python
-mediapipe
 tensorflow
 keras
 numpy
-matplotlib
 Pillow
-
